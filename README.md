@@ -8,9 +8,6 @@ A terminal based number guessing game built with Python.
 - Attempt counter
 - Play again option
 
-## How to run
-python game.py
-
 ## What I learned
 - Custom exception classes
 - Input validation
